@@ -1,4 +1,4 @@
-# hello_word
+# hello_world
 lq' first
 
 learn
